@@ -1,4 +1,4 @@
 The HackRPI Website
 ============
 
-Our website is open-source! #hellyeah
+A fork of the original HackRPI website.
